@@ -1,0 +1,8 @@
+torch
+ultralytics
+opencv-python
+pillow
+scikit-image
+scikit-learn
+streamlit
+streamlit_image_coordinates
